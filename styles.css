@@ -1,0 +1,10 @@
+/* table img {
+    width: 15%;
+    border-radius: 50%;
+}
+ */
+
+ body{
+    display: flex;
+    flex-wrap: wrap;
+ }
